@@ -1,6 +1,6 @@
 ---
 name: Bug Report Template
-about: 버그를 수정한 사항에 대해 작성해주세요
+about: 버그 발생 사항에 대해 작성해주세요
 title: "[Bug]"
 labels: ":bug: Bug"
 assignees: ''
