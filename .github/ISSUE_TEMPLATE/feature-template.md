@@ -1,5 +1,5 @@
 ---
-name: Feature 템플릿
+name: Feature Template
 about: 구현하려는 기능에 대해 작성해주세요
 title: "[Feat]"
 labels: ":sparkles: Feat"
